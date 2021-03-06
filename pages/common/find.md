@@ -4,7 +4,7 @@
 
 - Find files by extension:
 
-`find {{root_path}} -name '{{*.ext}}'`
+`find {{root_path}} -name '{{*.ext}}' 2>/dev/null`
 
 - Find files by matching multiple patterns:
 
