@@ -2,7 +2,7 @@
 
 > Ein Dateiarchivierer mit hoher Kompressionsrate.
 > Eine alleinstehende Version von `7z`, die nur .7z Dateien unterstützt.
-> Mehr Informationen: <https://www.7-zip.org/>.
+> Weitere Informationen: <https://www.7-zip.org/>.
 
 - Archiviere eine Datei oder ein Verzeichnis:
 
@@ -12,6 +12,6 @@
 
 `7zr x {{archiv.7z}}`
 
-- Listet den Inhalt einer Archivdatei auf:
+- Gib den Inhalt einer Archivdatei aus:
 
 `7zr l {{archiv}}`
